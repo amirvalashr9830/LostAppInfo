@@ -41,8 +41,70 @@
                     "countryName" : "France",
                     "ping"        : 0,
                     "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 7,
+                    "symbol"      : "US",
+                    "countryName" : "USA",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 8,
+                    "symbol"      : "UK",
+                    "countryName" : "United Kingdom",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 9,
+                    "symbol"      : "RU",
+                    "countryName" : "Russian",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 10,
+                    "symbol"      : "IR",
+                    "countryName" : "IRAN",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 11,
+                    "symbol"      : "SG",
+                    "countryName" : "Singapore",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 12,
+                    "symbol"      : "EM",
+                    "countryName" : "Emirate",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 13,
+                    "symbol"      : "TR",
+                    "countryName" : "Turkey",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 14,
+                    "symbol"      : "CH",
+                    "countryName" : "China",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                },
+		{
+		    "id"          : 15,
+                    "symbol"      : "FL",
+                    "countryName" : "Finland",
+                    "ping"        : 0,
+                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
                 }
-		
 		
     ]
    
