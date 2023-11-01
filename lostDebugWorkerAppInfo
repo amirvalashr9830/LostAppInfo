@@ -1,10 +1,12 @@
 {
       "adStatusEnable"          : true,
       "delayInterstitialAd"     : 6000,
+      "workerStatus"            : false,
+      "appVersion"              : 1,
       "loadAdStatus"            : "SELECT_SERVER",
       "notificationDescription" : "Here we are trying to provide you with a high quality of server stability",
       "notificationTitle"       : "Well Come", 
-      "notificationID"          : 3,
-      "timer"                   : 7200000 ,
+      "notificationID"          : 0,
+      "timer"                   : 30000 ,
       "channelLink"             :"https://t.me/PacketVPNService"             
 }
