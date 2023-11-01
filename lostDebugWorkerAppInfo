@@ -2,7 +2,7 @@
       "adStatusEnable"          : true,
       "delayInterstitialAd"     : 6000,
       "workerStatus"            : true,
-      "appVersion"              : 1,
+      "appVersion"              : 2,
       "loadAdStatus"            : "SELECT_SERVER",
       "notificationDescription" : "Here we are trying to provide you with a high quality of server stability",
       "notificationTitle"       : "Well Come", 
