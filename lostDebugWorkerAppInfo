@@ -4,7 +4,7 @@
       "loadAdStatus"            : "SELECT_SERVER",
       "notificationDescription" : "Here we are trying to provide you with a high quality of server stability",
       "notificationTitle"       : "Well Come", 
-      "notificationID"          : 2,
+      "notificationID"          : 3,
       "timer"                   : 7200000 ,
       "channelLink"             :"https://t.me/PacketVPNService"             
 }
