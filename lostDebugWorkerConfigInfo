@@ -2,110 +2,110 @@
     "configs" : [
                 {
 		    "id"          : 1,
-                    "symbol"      : "NL",
-                    "countryName" : "Netherlands",
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "trojan://95532c1dcc@51.158.63.14:443?security=tls&sni=fra1.connecton.surf&type=tcp&headerType=none#K88"
+                    "config"      : "vless://32f1c148-af93-4c1e-91a0-54edb315e355@172.67.205.136:2087?encryption=none&security=tls&sni=xnxv2ray.mioRay.cfd&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&mode=gun#Q1"
                 },
                 {
                     "id"          : 2,
-                    "symbol"      : "FL",
-                    "countryName" : "Findland",
+                    "symbol"      : "NL",
+                    "countryName" : "Netherlands",
                     "ping"        : 0,
-                    "config"      : "trojan://44c5578a7c@37.143.129.56:443?security=tls&sni=fi1.connecton.surf&type=tcp&headerType=none#K42"
+                    "config"      : "trojan://your_password@18.142.122.247:443?security=tls&sni=aws-sg-1.f1rocketnode.com&type=tcp&headerType=none#M2"
                 },
                 {
                     "id"          : 3,
-                    "symbol"      : "DN",
-                    "countryName" : "Denmark",
-                    "ping"        : 0,
-                    "config"      : "trojan://c33883045c@uk1.connecton.surf:443?security=tls&sni=uk1.connecton.surf&type=tcp&headerType=none#K18"
-                },
-                {
-		    "id"          : 4,
-                    "symbol"      : "CA",
-                    "countryName" : "Canada",
-                    "ping"        : 0,
-                    "config"      : "trojan://a77ad20a55@91.209.70.106:443?security=tls&sni=ru1.connecton.surf&type=tcp&headerType=none#K13"
-                },
-		{
-		    "id"          : 5,
-                    "symbol"      : "IT",
-                    "countryName" : "Italy",
-                    "ping"        : 0,
-                    "config"      : "trojan://517ccb0754@5.199.143.230:443?security=tls&sni=de1.connecton.surf&type=tcp&headerType=none#K12"
-                },
-		{
-		    "id"          : 6,
                     "symbol"      : "FR",
                     "countryName" : "France",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "vless://d6a1cfce-405e-4bd0-b1ab-3f81218d2868@49.12.69.241:443?encryption=none&security=reality&sni=www.zula.ir&fp=chrome&pbk=6lRppIAdonFC7haH0BNu6mGYl7NEoQTMaeIP1yyPaGg&sid=62c8bedb&type=grpc&serviceName=Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER&mode=gun#K2"
                 },
 		{
-		    "id"          : 7,
+                    "id"          : 4,
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "trojan://your_password@16.163.157.177:443?security=tls&sni=aws-hk-1.f1rocketnode.com&type=tcp&headerType=none#M4"
                 },
 		{
-		    "id"          : 8,
+                    "id"          : 5,
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "trojan://your_password@3.35.157.103:443?security=tls&sni=aws-kr-seoul-1.f1rocketnode.com&type=tcp&headerType=none#M5"
                 },
 		{
-		    "id"          : 9,
-                    "symbol"      : "RU",
-                    "countryName" : "Russian",
+                    "id"          : 6,
+                    "symbol"      : "CA",
+                    "countryName" : "Canada",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&type=tcp&headerType=none#M6"
                 },
 		{
-		    "id"          : 10,
-                    "symbol"      : "IR",
-                    "countryName" : "IRAN",
+                    "id"          : 7,
+                    "symbol"      : "IT",
+                    "countryName" : "Italy",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "vless://5e1b80ec-5abb-4cd8-c436-7063a1df5b34@198.41.209.216:8443?encryption=none&security=tls&sni=direct-ns3.cl0udflar3.com&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&type=grpc&serviceName=%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C%40arguvpn%2C&mode=gun#K7"
                 },
 		{
-		    "id"          : 11,
+                    "id"          : 8,
                     "symbol"      : "SG",
                     "countryName" : "Singapore",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "vless://2ba60acf-3cd1-4f3d-e7f7-56dfa489dfa0@45.131.208.46:2087?encryption=none&security=tls&sni=direct-ns2.cl0udflar3.com&fp=chrome&type=grpc&serviceName=snapp.ir&mode=gun#Q11"
                 },
 		{
-		    "id"          : 12,
-                    "symbol"      : "EM",
-                    "countryName" : "Emirate",
+                    "id"          : 9,
+                    "symbol"      : "SP",
+                    "countryName" : "Spain",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "vless://a1376bc4-fea3-4581-b3bf-c005834fdaf5@78.47.250.200:443?encryption=none&security=reality&sni=www.speedtest.net&fp=firefox&pbk=KuZOpuz0L4H-VNikILS8NP9oA6Ra9uTGEZLHH0FODFM&sid=83cdb009&type=grpc#R15"
                 },
 		{
-		    "id"          : 13,
-                    "symbol"      : "TR",
-                    "countryName" : "Turkey",
+                    "id"          : 10,
+                    "symbol"      : "SW",
+                    "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "vless://ff265851-3a6f-44ea-c239-215c4ddbc651@172.67.81.238:2096?encryption=none&security=tls&sni=tm.XrV2ray.cfd&type=grpc&serviceName=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2&mode=gun#Q12"
                 },
 		{
-		    "id"          : 14,
-                    "symbol"      : "CH",
-                    "countryName" : "China",
-                    "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
-                },
-		{
-		    "id"          : 15,
+                    "id"          : 11,
                     "symbol"      : "FL",
                     "countryName" : "Finland",
                     "ping"        : 0,
-                    "config"      : "trojan://9Mdw86d7Cz@132.145.208.20:443?security=tls&sni=no.09.ijg.cc&type=tcp&headerType=none#K11"
+                    "config"      : "vless://2ba60acf-3cd1-4f3d-e7f7-56dfa489dfa0@104.16.41.47:2087?encryption=none&security=tls&sni=direct-ns2.cl0udflar3.com&fp=chrome&type=grpc&serviceName=snapp.ir&mode=gun#K42"
+                },
+		{
+                    "id"          : 12,
+                    "symbol"      : "DN",
+                    "countryName" : "Denmark",
+                    "ping"        : 0,
+                    "config"      : "vless://6952707e-d668-4b19-87d9-b0f2675eb259@65.109.184.213:443?encryption=none&security=reality&sni=gsmarena.com&fp=chrome&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&sid=a786cf49&type=grpc&serviceName=%40Everyday_VPN&mode=gun#K20"
+                },
+		{
+                    "id"          : 13,
+                    "symbol"      : "DE",
+                    "countryName" : "Germany",
+                    "ping"        : 0,
+                    "config"      : "vless://337fde94-8d7a-4523-9a44-38e73a6fef7f@104.18.55.55:2083?encryption=none&security=tls&sni=cloud.barfak123.eu.org&type=grpc&serviceName=%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN&mode=gun#Q3"
+                },
+		{
+                    "id"          : 14,
+                    "symbol"      : "UK",
+                    "countryName" : "United Kingdom",
+                    "ping"        : 0,
+                    "config"      : "vless://658eb606-e826-4f30-ae15-feefb87cacef@104.18.202.212:2053?encryption=none&security=tls&sni=Antiv2ray-MCI-Mokhaderat-Irancell-Shatel.ChV2ray.cfd&type=grpc&serviceName=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2&mode=gun#Q13"
+                },
+		{
+                    "id"          : 15,
+                    "symbol"      : "FL",
+                    "countryName" : "Findland",
+                    "ping"        : 0,
+                    "config"      : "vless://f3a0a8f0-2ae7-4b02-a08c-c90d529a5648@172.232.206.102:443?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=giSaik389_uH47WJcGUudqFpK75nN8mNasnCXQwqC3A&sid=711c88b0&type=grpc#Q4"
                 }
-		
+
     ]
    
 }
