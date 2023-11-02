@@ -7,6 +7,6 @@
       "notificationDescription" : "Here we are trying to provide you with a high quality of server stability",
       "notificationTitle"       : "Well Come", 
       "notificationID"          : 1,
-      "timer"                   : 30000 ,
+      "timer"                   : 1800000 ,
       "channelLink"             :"https://t.me/PacketVPNService"             
 }
