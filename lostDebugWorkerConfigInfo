@@ -44,8 +44,8 @@
                 },
 		{
                     "id"          : 7,
-                    "symbol"      : "TR",
-                    "countryName" : "Turkey",
+                    "symbol"      : "SP",
+                    "countryName" : "Spain",
                     "ping"        : 0,
                     "config"      : "trojan://reEg1hLMlw@173.245.59.91:443?security=tls&sni=chelseafans2024.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=chelseafans2024.colocrossing.sbs&path=%2F#J20"
 "
