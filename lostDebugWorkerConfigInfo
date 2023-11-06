@@ -5,7 +5,7 @@
                     "symbol"      : "TR",
                     "countryName" : "Turkey",
                     "ping"        : 0,
-                    "config"      : "trojan://reEg1hLMlw@173.245.59.91:443?security=tls&sni=chelseafans2024.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=edge&type=ws&host=chelseafans2024.colocrossing.sbs&path=%2F#J20"
+                    "config"      : "vless://6df9976d-344e-4816-9b98-e57b3d8789f5@167.172.179.115:443?encryption=none&security=reality&sni=store.steampowered.com&fp=edge&pbk=CZi6xoPhME4hakv42w5SSxFLOWt78wDrdwPAYZZ6kRg&sid=36fc2f02&spx=%2Fapp%2F730%2FCounterStrike_2&type=tcp&headerType=http&host=store.steampowered.com#i20"
                 },
                 {
                     "id"          : 2,
@@ -33,7 +33,7 @@
                     "symbol"      : "UK",
                     "countryName" : "United Kingdom",
                     "ping"        : 0,
-                    "config"      : "vless://8dfd1bf6-1efd-4ac6-9361-665713490079@91.107.180.163:2053?encryption=none&security=reality&sni=cdn.discordapp.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=xyz&mode=gun#D4"
+                    "config"      : "vless://6df9976d-344e-4816-9b98-e57b3d8789f5@167.172.179.115:443?encryption=none&security=reality&sni=store.steampowered.com&fp=edge&pbk=CZi6xoPhME4hakv42w5SSxFLOWt78wDrdwPAYZZ6kRg&sid=36fc2f02&spx=%2Fapp%2F730%2FCounterStrike_2&type=tcp&headerType=http&host=store.steampowered.com#i20"
                 },
 		{
                     "id"          : 6,
@@ -47,7 +47,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://d6a1cfce-405e-4bd0-b1ab-3f81218d2868@49.12.69.241:443?encryption=none&security=reality&sni=www.zula.ir&fp=chrome&pbk=6lRppIAdonFC7haH0BNu6mGYl7NEoQTMaeIP1yyPaGg&sid=62c8bedb&type=grpc&serviceName=Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER-Telegram%3A%40CUSTOMVPNSERVER&mode=gun#K2"
+                    "config"      : "vless://6df9976d-344e-4816-9b98-e57b3d8789f5@167.172.179.115:443?encryption=none&security=reality&sni=store.steampowered.com&fp=edge&pbk=CZi6xoPhME4hakv42w5SSxFLOWt78wDrdwPAYZZ6kRg&sid=36fc2f02&spx=%2Fapp%2F730%2FCounterStrike_2&type=tcp&headerType=http&host=store.steampowered.com#i20"
                 },
 		{
                     "id"          : 8,
@@ -68,21 +68,21 @@
                     "symbol"      : "SW",
                     "countryName" : "Sweden",
                     "ping"        : 0,
-                    "config"      : "trojan://your_password@3.35.157.103:443?security=tls&sni=aws-kr-seoul-1.f1rocketnode.com&type=tcp&headerType=none#M5"
+                    "config"      : "vless://6df9976d-344e-4816-9b98-e57b3d8789f5@167.172.179.115:443?encryption=none&security=reality&sni=store.steampowered.com&fp=edge&pbk=CZi6xoPhME4hakv42w5SSxFLOWt78wDrdwPAYZZ6kRg&sid=36fc2f02&spx=%2Fapp%2F730%2FCounterStrike_2&type=tcp&headerType=http&host=store.steampowered.com#i20"
                 },
 		{
                     "id"          : 11,
                     "symbol"      : "FL",
                     "countryName" : "Finland",
                     "ping"        : 0,
-                    "config"      : "trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com&type=tcp&headerType=none#M6"
+                    "config"      : "vless://6df9976d-344e-4816-9b98-e57b3d8789f5@167.172.179.115:443?encryption=none&security=reality&sni=store.steampowered.com&fp=edge&pbk=CZi6xoPhME4hakv42w5SSxFLOWt78wDrdwPAYZZ6kRg&sid=36fc2f02&spx=%2Fapp%2F730%2FCounterStrike_2&type=tcp&headerType=http&host=store.steampowered.com#i20"
                 },
 		{
                     "id"          : 12,
                     "symbol"      : "DN",
                     "countryName" : "Denmark",
                     "ping"        : 0,
-                    "config"      : "vless://32f1c148-af93-4c1e-91a0-54edb315e355@172.67.205.136:2087?encryption=none&security=tls&sni=xnxv2ray.mioRay.cfd&alpn=h2%2Chttp%2F1.1&type=grpc&serviceName=Telegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY%2CTelegram%3A%40XNXV2RAY&mode=gun#Q1"
+                    "config"      : "vless://6df9976d-344e-4816-9b98-e57b3d8789f5@167.172.179.115:443?encryption=none&security=reality&sni=store.steampowered.com&fp=edge&pbk=CZi6xoPhME4hakv42w5SSxFLOWt78wDrdwPAYZZ6kRg&sid=36fc2f02&spx=%2Fapp%2F730%2FCounterStrike_2&type=tcp&headerType=http&host=store.steampowered.com#i20"
                 },
 		{
                     "id"          : 13,
@@ -103,7 +103,7 @@
                     "symbol"      : "FL",
                     "countryName" : "Findland",
                     "ping"        : 0,
-                    "config"      : "vless://e313427c-da42-4f52-9922-057aa6e5da1e@185.113.223.129:443?encryption=none&security=reality&sni=greenpepper.ir&fp=chrome&pbk=DnbLcTb0Q3MgaCfJ8s7NPk_8kz6PxShHVw9rnnQbd2c&sid=d8&type=grpc&serviceName=Telegram%3A%40iranbaxvpn&mode=gun#A1"
+                    "config"      : "vless://6df9976d-344e-4816-9b98-e57b3d8789f5@167.172.179.115:443?encryption=none&security=reality&sni=store.steampowered.com&fp=edge&pbk=CZi6xoPhME4hakv42w5SSxFLOWt78wDrdwPAYZZ6kRg&sid=36fc2f02&spx=%2Fapp%2F730%2FCounterStrike_2&type=tcp&headerType=http&host=store.steampowered.com#i20"
                 }
 
     ]
