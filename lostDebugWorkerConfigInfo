@@ -5,7 +5,7 @@
                     "symbol"      : "DE",
                     "countryName" : "Germany",
                     "ping"        : 0,
-                    "config"      : "vless://6df9976d-344e-4816-9b98-e57b3d8789f5@167.172.179.115:443?encryption=none&security=reality&sni=store.steampowered.com&fp=edge&pbk=CZi6xoPhME4hakv42w5SSxFLOWt78wDrdwPAYZZ6kRg&sid=36fc2f02&spx=%2Fapp%2F730%2FCounterStrike_2&type=tcp&headerType=http&host=store.steampowered.com#i20"
+                    "config"      : "trojan://6lj66EpHeV@cooldark.colocrossing.sbs:443?security=tls&sni=cooldark.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=chelsea3367.colocrossing.sbs&path=%2F#i20"
                 },
                 {
                     "id"          : 2,
@@ -26,7 +26,7 @@
                     "symbol"      : "US",
                     "countryName" : "USA",
                     "ping"        : 0,
-                    "config"      : "trojan://36y1Jpu5Xh@repo.steampowered.com:443?security=tls&sni=About.colocrossing.top&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=About.colocrossing.top&path=%2F#P15"
+                    "config"      : "trojan://6lj66EpHeV@cooldark.colocrossing.sbs:443?security=tls&sni=cooldark.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=chelsea3367.colocrossing.sbs&path=%2F#i8"
                 },
 		{
                     "id"          : 5,
@@ -107,3 +107,5 @@
                 }
 
     ]
+   
+}
