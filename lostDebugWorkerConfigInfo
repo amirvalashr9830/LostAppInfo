@@ -3,9 +3,16 @@
                 {
 		    "id"          : 1,
                     "symbol"      : "DE",
-                    "countryName" : "لطفا برای استفاده به اخرین نسخه از گوگل پلی آپدیت کنید",
+                    "countryName" : "لطفا برای آپدیت Packet VPN را جست وجو کنید",
                     "ping"        : 0,
                     "config"      : "trojan://6lj66EpHeV@cooldark.colocrossing.sbs:443?security=tls&sni=cooldark.colocrossing.sbs&alpn=h2%2Chttp%2F1.1&fp=ios&type=ws&host=chelsea3367.colocrossing.sbs&path=%2F#i20"
+                },
+		 {
+		    "id"          : 2,
+                    "symbol"      : "FL",
+                    "countryName" : "این سرور برای آپدیت و به مدت 72 ساعت فعال می باشد",
+                    "ping"        : 0,
+                    "config"      : "vless://9963d3c8-e37c-4676-945b-b4e95452e540@scale360.colocrossing.sbs:80?encryption=none&security=none&type=ws&host=liked-works-hamburg-oct.trycloudflare.com&path=%2Farm%3Fed%3D2048#Finland"
                 }
     ]
    
